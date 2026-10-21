@@ -1,0 +1,7 @@
+{
+  "name": "AutoPilot AI",
+  "description": "Enterprise AI Automation Platform for autonomous agents, visual workflows, CRM, lead qualification, and real-time event orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
